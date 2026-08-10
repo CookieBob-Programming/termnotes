@@ -50,7 +50,9 @@ Example:
 
 ```bash
 termnotes add todo Shopping: bread, milk, coffee
+todo: Shopping: bread, milk, coffee
 termnotes add ideas New TUI with categories
+ideas: New TUI with categories
 ```
 
 ### Panel size
