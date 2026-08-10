@@ -16,7 +16,7 @@ Notes displayed directly in a sidebar in your terminal – attached via a dedica
 Requirements: `python3` and `tmux`.
 
 ```bash
-git clone <repo-url> termnotes
+git clone https://github.com/CookieBob-Programming/termnotes.git termnotes
 cd termnotes
 sudo ./install.sh
 ```
